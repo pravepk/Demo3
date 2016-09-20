@@ -1,0 +1,1 @@
+echo Example Text > Filename.txt
